@@ -6,6 +6,7 @@ Tutorial completo e prático sobre implementação de threads em Python para est
 
 Este repositório contém:
 
+- **🚀 Início Rápido** (`INICIO_RAPIDO.md`): Comece em 5 minutos!
 - **Tutorial Completo** (`TUTORIAL.md`): Guia detalhado sobre threads em Python
 - **10 Exemplos Práticos** (`exemplos/`): Código executável demonstrando conceitos
 - **3 Exercícios** (`exemplos/`): Desafios para praticar o que aprendeu
@@ -22,6 +23,7 @@ Este repositório contém:
 ```
 python-threads/
 ├── README.md              # Este arquivo
+├── INICIO_RAPIDO.md       # Guia de início rápido (5 minutos)
 ├── TUTORIAL.md            # Tutorial completo e detalhado
 └── exemplos/              # Exemplos práticos e exercícios
     ├── README.md          # Guia dos exemplos
@@ -41,6 +43,12 @@ python-threads/
 ```
 
 ## 📖 Como Usar Este Tutorial
+
+### ⚡ Primeira Vez? Comece Aqui!
+
+**Leia o [Guia de Início Rápido](INICIO_RAPIDO.md)** - Em 5 minutos você estará executando seu primeiro programa com threads!
+
+### 📚 Estudo Completo
 
 1. **Leia o Tutorial Completo**
    ```bash
